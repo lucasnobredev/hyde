@@ -3,7 +3,7 @@ layout: post
 title: "Minha primeira contribuição para a Microsoft"
 author: "Lucas Nobre"
 categories: open-source
-category-name: open-source
+categorymain: open-source
 tags: [microsoft,git, github, opensource]
 image: microsoftopensource.jpg
 hide: false
