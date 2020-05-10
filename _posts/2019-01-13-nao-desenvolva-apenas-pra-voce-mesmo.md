@@ -3,7 +3,7 @@ layout: post
 title: "Não desenvolva apenas pra você mesmo"
 author: "Lucas Nobre"
 categories: open-source
-category-name: open-source
+category_name: open-source
 tags: [pessoal,git, github, opensource,open,source,codigo,aberto,dicas]
 image: dont_just_code_for_yourself.jpg
 hide: false
