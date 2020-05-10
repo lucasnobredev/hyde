@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      rouge
 
 # Permalinks
-permalink:        /:categorymain/:title/
+permalink:        /:categories/:title/
 
 # Setup
 title:            Hyde
