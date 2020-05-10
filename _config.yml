@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:        '/page/:num/'
 relative_permalinks: false
 
 # Setup
