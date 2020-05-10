@@ -1,9 +1,9 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
-permalink:        /:category/:title/
+permalink:        /:category-name/:title/
 
 # Setup
 title:            Hyde
