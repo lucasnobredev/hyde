@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        /page/:num/
+permalink:        /:page/
 
 # Setup
 title:            Hyde
